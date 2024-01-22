@@ -6,7 +6,7 @@ on:
       - v*
 
 env:
-  DOCKERHUB_REPO: dufumove/wxhelper-docker
+  DOCKERHUB_REPO: ostaer/wxhelper-docker
 
 jobs:
   main:
